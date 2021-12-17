@@ -1,12 +1,12 @@
-
-    
+ 
 .page-header {
-    background-color: #c20098ce;
+    background: url("/static/img/blossoms.jpg") 1% 0 no-repeat fixed;
+    /*background-color: #c20098ce;*/
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
 }
-
+ 
 .page-header h1,
 .page-header h1 a,
 .page-header h1 a:visited,
